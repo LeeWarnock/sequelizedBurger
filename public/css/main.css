@@ -38,9 +38,7 @@ footer {
 }
 
 .footerimg {
-    display: inline;
-    margin: 0px;
-    padding: 0px;
-    white-space:nowrap;
+    background-image: url("src=images/burgermanfinaledribbble.gif");
     width: 120;
+    background-repeat: repeat-x;
 }
