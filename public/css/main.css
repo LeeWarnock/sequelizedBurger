@@ -35,7 +35,12 @@ h1 {
 
 footer {
     color: white;
-    background-repeat: repeat-y;
-    background-image: url("images/burgermanfinaledribbble.gif");
-    width:200px;
+}
+
+.footerimg {
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    white-space:nowrap;
+    width: 120;
 }
