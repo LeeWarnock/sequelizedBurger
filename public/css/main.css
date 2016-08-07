@@ -1,5 +1,6 @@
 body {
     background-color: #1a1a1a;
+    font-family: 'Roboto Black', 'Open Sans', sans-serif;
 }
 
 h1 {
@@ -9,7 +10,7 @@ h1 {
 .header {
     background: url('../../images/background.jpg') center fixed no-repeat;
     background-size: cover;
-    height: 700px;
+    height: 400px;
 }
 
 .intro {
